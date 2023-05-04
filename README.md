@@ -22,7 +22,9 @@ Really proud of this line.
 ## PyPoll
 
 Workfile: ./PyPoll/main.py
+
 csvfile: ./PyPoll/Resources/election_data.csv
+
 txtfile: ./PyPoll/analysis/results.txt
 
 PyPoll is a very interesting assignment. It had a lot of rows, and it is not sorted per candidate. Had to use unique(), count() and learned how print with '\n'. Taking percentage to show using round() also became useful and printing to text file just became simpler. 
