@@ -5,7 +5,9 @@ This repository contains two Python scripts, PyBank and PyPoll, that analyze fin
 ## Pybank
 
 Workfile: ./PyBank/main.py
+
 csvfile: ./PyBank/Resources/budget_data.csv
+
 txtfile: ./PyBank/analysis/results.txt
 
 Pybank is distinct in that we split both columns and to do a lot of computations with the second column. The challenge was found in the finding of the average of the changes but I derived an easy formula to compute for that. If you see in my code this specific line is what computed my average:
